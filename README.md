@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinavmishra97
 - 👀 I’m interested in learning or exploring anything new
-- 🌱 I’m currently learning communication skills and c and java xd
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on something idk what
 - 📫 Glad to meet anyone anywhere  
 
