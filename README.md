@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhinavmishra97
 - 👀 I’m interested in learning or exploring anything new
-- 🌱 I’m currently learning c++, web dev
-- 💞️ I’m looking to collaborate on something idk what
-- 📫 Glad to meet anyone anywhere
+- 🌱 Full stack developer
+- 💞️ Eager to explore and learn new technologies
+- 📫 Glad to collaborate and build something great
 
 
 <!---
