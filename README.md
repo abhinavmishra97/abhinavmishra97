@@ -17,8 +17,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Abhinav+Mishra;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
-<div align="center">Full Stack Developer passionate about tech & clean code.</div>
-<div align="center">My code compiles… eventually.</div>
+<div align="center">Full Stack Developer passionate about tech & clean code (and yes, my code compiles… eventually).</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mishra-3103a624b/) 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavmishra97)](https://github.com/abhinavmishra97)
