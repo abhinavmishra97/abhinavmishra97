@@ -17,13 +17,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Abhinav+Mishra;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
-
-Full Stack Developer with a knack for turning ideas into code 💡.
+<div align="center">Full Stack Developer passionate about tech & clean code.</div>
+<div align="center">My code compiles… eventually.</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mishra-3103a624b/) 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavmishra97)](https://github.com/abhinavmishra97)
 
-- 💬 Ask me about anything related to Technology, if I don't know about it, I would be interested in learning more!
+- 💬 Got something cool in mind? Let’s build it together →
 - 📫 Reach me at: **mishraabhinav2306@gmail.com**
 
 
