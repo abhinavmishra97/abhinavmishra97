@@ -21,7 +21,7 @@
 Full Stack Developer with a knack for turning ideas into code 💡.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mishra-3103a624b/) 
-[![Profile Views](https://komarev.com/ghpvc/?username=XoXoHarsh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abhinavmishra97)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhinavmishra97)](https://github.com/abhinavmishra97)
 
 - 💬 Ask me about anything related to Technology, if I don't know about it, I would be interested in learning more!
 - 📫 Reach me at: **mishraabhinav2306@gmail.com**
