@@ -18,15 +18,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Abhinav+Mishra;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 <div align="center">Full Stack Developer passionate about tech & clean code (and yes, my code compiles… eventually).</div>
+</br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mishra-3103a624b/) 
-[![Profile Views](https://komarev.com/ghpvc/?username=abhinavmishra97)](https://github.com/abhinavmishra97)
-
-- 💬 Got something cool in mind? Let’s build it together →
-- 📫 Reach me at: **mishraabhinav2306@gmail.com**
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinav-mishra-3103a624b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/abhinavmishra97">
+    <img src="https://komarev.com/ghpvc/?username=abhinavmishra97&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 | Category | Skills and Icons |
 |----------|-----------------|
@@ -36,3 +41,17 @@
 | **Databases & Services** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
 | **AI/ML Technologies** | ![LangChain](https://img.shields.io/badge/🦜LangChain-%23000000.svg?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 | **Tools** | ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) |
+</div>
+</br>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavmishra97&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Got+something+cool+in+mind?;Let's+build+it+together!&center=true&color=58a6ff&width=380&height=45">
+  <br>
+  📫 <a href="mailto:mishraabhinav2306@gmail.com">mishraabhinav2306@gmail.com</a>
+</p>
+
